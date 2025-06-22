@@ -1,2 +1,5 @@
-# web-sustainablity
-A web-based platform to promote eco-friendly lifestyle choices and sustainable living practices. Built using HTML, CSS, JavaScript, and PHP, this website serves as an informative and interactive hub for users interested in reducing their environmental impact.
+# WebDevelopment
+This is a website created using HTML and CSS.
+
+Example screenshot:
+![image](https://github.com/user-attachments/assets/0de6bb5b-1588-46fb-9427-359f06f62cd1)
